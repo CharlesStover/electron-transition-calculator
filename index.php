@@ -19,7 +19,7 @@ $wavelength = abs(1.9864458e-25 / $delta_e);
 $nu         = abs($delta_e / 6.62607004e-34);
 
 ?>
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Electron Transitions</title>

@@ -1,0 +1,36 @@
+body {
+  background-color: #202020;
+  color: #F0F0F0;
+  padding: 1em;
+}
+
+abbr {
+  cursor: help;
+  text-decoration: none;
+}
+
+#from,
+#to {
+  width: 3em;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 2em;
+  margin: 0;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 1.5em;
+  margin: 2em 0 0.5em 0;
+}
+
+th {
+  padding-right: 1em;
+  text-align: left;
+}
+
+th:after {
+  content: ":";
+}
