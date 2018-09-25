@@ -5,4 +5,4 @@ A JavaScript implementation exists in the `index.html` and `index.js` files.
 A PHP implementation exists in the `index.php` file.
 
 ## Demo
-* [GitHub Pages](https://charlesstover.com/electron-transitions)
+* [GitHub Pages](https://charlesstover.github.io/electron-transition-calculator/)
